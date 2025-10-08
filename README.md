@@ -32,6 +32,12 @@ Here’s a preview of my project layout:
 |  Contact | Send a message or feedback |
 
 ---
+---
+
+##  Acknowledgment
+Special thanks to **Entri Elevate** and **Lakshmi Ma’am** for their valuable guidance and support throughout my learning journey in web development.  
+This project helped me gain practical experience in creating responsive and interactive websites.
+
 
 <img width="1366" height="768" alt="Screenshot (92)" src="https://github.com/user-attachments/assets/69553151-0664-4157-9225-78c21be23f04" />
 
